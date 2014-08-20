@@ -3,28 +3,28 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "text": "Alex Purdy",
+    "text": "",
     "file": "",
     "link": ""
   },
   "text": {
-    "title": "dblp citation network",
+    "title": "",
     "more": "",
     "intro": ""
   },
   "legend": {
-    "edgeLabel": "citations",
+    "edgeLabel": "",
     "colorLabel": "",
-    "nodeLabel": "papers"
+    "nodeLabel": ""
   },
   "features": {
-    "search": true,
+    "search": false,
     "groupSelectorAttribute": false,
     "hoverBehavior": "default"
   },
   "informationPanel": {
     "imageAttribute": false,
-    "groupByEdgeDirection": false
+    "groupByEdgeDirection": true
   },
   "sigma": {
     "graphProperties": {
